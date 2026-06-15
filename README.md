@@ -1,4 +1,4 @@
-**Read the full paper through [this link](https://github.com/upsilonyc/linguisr1b/blob/master/paper.pdf).**
+**Read the full paper through [this link]([https://github.com/upsilonyc/linguisr1b/blob/master/paper.pdf](https://github.com/upsilonyc/lingr1b_sp26/blob/main/lingr1b_ACLSRW.pdf)).**
 # On Gendered Framing as a Latent Encoding in Technical Self-Representation and Evaluation
 Shiyi Chen
 ## Abstract
